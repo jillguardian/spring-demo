@@ -1,0 +1,15 @@
+{
+  "data":[
+    {
+      "username":"mewmewmew",
+      "email":"anon@earth.org"
+    }
+  ],
+  "first":true,
+  "last":false,
+  "totalPages":5,
+  "totalElements":5,
+  "numberOfElements":1,
+  "size":1,
+  "page":0
+}

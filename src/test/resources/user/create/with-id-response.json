@@ -1,0 +1,11 @@
+{
+  "path":"/user",
+  "type":"org.springframework.web.bind.MethodArgumentNotValidException",
+  "message":"Validation failed",
+  "errors":[
+    {
+      "field":"id",
+      "message":"must be null"
+    }
+  ]
+}
